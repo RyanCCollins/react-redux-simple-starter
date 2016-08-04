@@ -4,6 +4,9 @@ The hardest part about React is getting setup.  This project aims to help anyone
 
 It follows best practices, including the [AirBnb JS & JSX style guides](https://github.com/airbnb/javascript) and uses the FTF (file-type first) organizational pattern.
 
+## Update
+As much as I love this project, it has been replaced as the goto boilerplate in the community.  The new boilerplate offers a more scalable approach and rails-like generators.  You can find it [here](https://github.com/RyanCCollins/scalable-react-boilerplate).
+
 # Documentation
 
 ## Getting Started
