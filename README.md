@@ -137,10 +137,11 @@ To try the example application out or to use the project, follow the instruction
 * [x] Setup Filetype First organization
 * [x] Add better demonstration of included libraries (run the test application)
 * [x] Write unit tests and setup folder structure for testing (See tests directory for examples)
+* [x] Migrate to Feature First file organization as noted [in this article](http://engineering.kapost.com/2016/01/organizing-large-react-applications/) and in the [React Boilerplate](https://github.com/mxstbr/react-boilerplate) (See [here](https://github.com/RyanCCollins/scalable-react-boilerplate))
 * [ ] Write component tests using Jest and / or Enzyme
 * [ ] Write wiki / other documentation
 * [ ] Implement a Rails like component generator
-* [ ] Migrate to Feature First file organization as noted [in this article](http://engineering.kapost.com/2016/01/organizing-large-react-applications/) and in the [React Boilerplate](https://github.com/mxstbr/react-boilerplate)
+
 
 ### Acknowledgements
 
